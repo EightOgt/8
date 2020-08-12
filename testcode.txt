@@ -5,11 +5,6 @@
 	<title>helllo</titile>
 	</head>
 <body>
-<<<<<<< HEAD
-Hello,world!
-GitHub Wakaranai!
-=======
 Hello,Git Hub!
->>>>>>> 4679850a6c07ea8cd11949c33b636eee4cd4dc5b
 </body>
 </html>
