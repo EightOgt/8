@@ -19,7 +19,7 @@ def main(url):
 
     # Paths
     Cwd_Path = __file__.replace('Data_Consumption_Extraction.py', '')
-    Driver_Path = Cwd_Path + 'chromedriver.exe'
+    Driver_Path = '/usr/local/bin/chromedriver'
     SaveFile_Path = Cwd_Path + 'Data_Consumption_Report_<time>.csv'
 
     # Result variable
@@ -89,12 +89,12 @@ def main(url):
 
     # Start Browser
     driver = webdriver.Chrome(executable_path=Driver_Path, chrome_options=options)
-    wait = WebDriverWait(driver, 10)
+    wait = WebDriverWait(driver, 15)
     driver.get(url)
-
+    
     # Login to Celonis Manually
-    print('Please Login to Celonis')
-    subprocess.run('PAUSE', shell=True)
+    print('Please Login to Celonis. Then Press [Enter] key to Resume.')
+    subprocess.run('read reply', shell=True)
 
     # Transition to Event Collection
     wait.until(EC.visibility_of_element_located((By.XPATH, Button_EventCollection)))
@@ -162,8 +162,8 @@ def main(url):
     driver.close()
 
     Result_df.to_csv(SaveFile_Path.replace('<time>', now.strftime('%Y%m%d%H%M%S')), index=False)
-    print('Finish!')
-    subprocess.run('PAUSE', shell=True)
+    print('Finish! Press [Enter] Key to End')
+    subprocess.run('read reply', shell=True)
 
 if __name__ == "__main__":
     url = 'https://abeam-sandbox-dcp.eu-1.celonis.cloud/process-mining/ui'

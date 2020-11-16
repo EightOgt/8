@@ -1,0 +1,252 @@
+Data_Pool,Data_Connection,Table,Size(B),Last_Updated
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,tmp_policy,173.0,2020-11-07 15:38:00
+Takata version control test target,No info,test_takeover,0.0,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,test,114.0,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizationsAttendees,78028.8,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizationsAttendees,78028.8,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizationsAllocations,465520.64,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizationsAllocations,465520.64,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizations,768010.24,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizations,768010.24,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntries,1004113.92,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntries,1004113.92,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseDetail,928020.48,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseDetail,928020.48,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expense,2369781.76,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expense,2212495.36,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_CASES,2621.44,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_ACTIVITIES_HELP,4044.8,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_ACTIVITIES,24074.24,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_TABLE_COUNT,378.0,2020-11-07 15:38:00
+SFDC - Lead ABeam Template v1,ABeam SFDC Development,_CEL_TABLE_COUNT,0.0,2020-11-07 15:38:00
+SAP ECC - O2C ABeam Template v1,ABeam Cloud R2M,_CEL_TABLE_COUNT,723.0,2020-11-07 15:38:00
+SAP ECC - PM ABeam Template v1,SAP ERP,_CEL_STSMA_AUART_MAPPING,60.0,2020-11-07 15:38:00
+SAP ECC - QM-QN ABeam Template v1,SAP ERP,_CEL_QM_ACTIVITIES,54784.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_RESB_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_RESB_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PRPS_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PRPS_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PROJ_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PROJ_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_MLST_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_MLST_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_EBAN_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_EBAN_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_AFVC_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_AFVC_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP S/4HANA - PP Created by ABeam Cloud,ABeam Cloud R2Q,_CEL_PP_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PP ABeam Template v1,ABeam Cloud R2M,_CEL_PP_ACTIVITIES,960890.88,2020-11-07 15:38:00
+SAP S/4HANA - PP Created by ABeam Cloud,ABeam Cloud R8D,_CEL_PP_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PM ABeam Template v1,SAP ERP,_CEL_PM_ACTIVITIES,9236.48,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_PR_HISTORY,22886.4,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_PO_HISTORY,144496.64,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,No info,_CEL_P2P_DTEST_STEP,96040.96,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,No info,_CEL_P2P_DTEST_CASE,10956.8,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud3,ABeam Cloud R2Q,_CEL_P2P_CASES,38604.8,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud3,ABeam Cloud R8D,_CEL_P2P_CASES,1415577.6,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_CASES,152893.44,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud4(Test),ABeam Cloud R8D,_CEL_P2P_CASES,1436549.12,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud,ABeam Cloud R8D,_CEL_P2P_CASES,979312.64,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud4(Test),ABeam Cloud R2Q,_CEL_P2P_CASES,38686.72,2020-11-07 15:38:00
+Takata version control test,ABeam Cloud R2M,_CEL_P2P_CASES,3870.72,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,tmp_policy,173.0,2020-11-07 15:38:00
+Takata version control test target,No info,test_takeover,0.0,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,test,114.0,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizationsAttendees,78028.8,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizationsAttendees,78028.8,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizationsAllocations,465520.64,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizationsAllocations,465520.64,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizations,768010.24,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizations,768010.24,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntries,1004113.92,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntries,1004113.92,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseDetail,928020.48,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseDetail,928020.48,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expense,2369781.76,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expense,2212495.36,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_CASES,2621.44,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_ACTIVITIES_HELP,4044.8,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_ACTIVITIES,24074.24,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_TABLE_COUNT,378.0,2020-11-07 15:38:00
+SFDC - Lead ABeam Template v1,ABeam SFDC Development,_CEL_TABLE_COUNT,0.0,2020-11-07 15:38:00
+SAP ECC - O2C ABeam Template v1,ABeam Cloud R2M,_CEL_TABLE_COUNT,723.0,2020-11-07 15:38:00
+SAP ECC - PM ABeam Template v1,SAP ERP,_CEL_STSMA_AUART_MAPPING,60.0,2020-11-07 15:38:00
+SAP ECC - QM-QN ABeam Template v1,SAP ERP,_CEL_QM_ACTIVITIES,54784.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_RESB_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_RESB_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PRPS_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PRPS_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PROJ_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PROJ_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_MLST_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_MLST_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_EBAN_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_EBAN_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_AFVC_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_AFVC_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP S/4HANA - PP Created by ABeam Cloud,ABeam Cloud R2Q,_CEL_PP_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PP ABeam Template v1,ABeam Cloud R2M,_CEL_PP_ACTIVITIES,960890.88,2020-11-07 15:38:00
+SAP S/4HANA - PP Created by ABeam Cloud,ABeam Cloud R8D,_CEL_PP_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PM ABeam Template v1,SAP ERP,_CEL_PM_ACTIVITIES,9236.48,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_PR_HISTORY,22886.4,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_PO_HISTORY,144496.64,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,No info,_CEL_P2P_DTEST_STEP,96040.96,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,No info,_CEL_P2P_DTEST_CASE,10956.8,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud3,ABeam Cloud R2Q,_CEL_P2P_CASES,38604.8,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud3,ABeam Cloud R8D,_CEL_P2P_CASES,1415577.6,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_CASES,152893.44,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud4(Test),ABeam Cloud R8D,_CEL_P2P_CASES,1436549.12,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud,ABeam Cloud R8D,_CEL_P2P_CASES,979312.64,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud4(Test),ABeam Cloud R2Q,_CEL_P2P_CASES,38686.72,2020-11-07 15:38:00
+Takata version control test,ABeam Cloud R2M,_CEL_P2P_CASES,3870.72,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,tmp_policy,173.0,2020-11-07 15:38:00
+Takata version control test target,No info,test_takeover,0.0,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,test,114.0,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizationsAttendees,78028.8,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizationsAttendees,78028.8,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizationsAllocations,465520.64,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizationsAllocations,465520.64,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizations,768010.24,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizations,768010.24,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntries,1004113.92,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntries,1004113.92,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseDetail,928020.48,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseDetail,928020.48,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expense,2369781.76,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expense,2212495.36,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_CASES,2621.44,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_ACTIVITIES_HELP,4044.8,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_ACTIVITIES,24074.24,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_TABLE_COUNT,378.0,2020-11-07 15:38:00
+SFDC - Lead ABeam Template v1,ABeam SFDC Development,_CEL_TABLE_COUNT,0.0,2020-11-07 15:38:00
+SAP ECC - O2C ABeam Template v1,ABeam Cloud R2M,_CEL_TABLE_COUNT,723.0,2020-11-07 15:38:00
+SAP ECC - PM ABeam Template v1,SAP ERP,_CEL_STSMA_AUART_MAPPING,60.0,2020-11-07 15:38:00
+SAP ECC - QM-QN ABeam Template v1,SAP ERP,_CEL_QM_ACTIVITIES,54784.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_RESB_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_RESB_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PRPS_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PRPS_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PROJ_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PROJ_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_MLST_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_MLST_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_EBAN_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_EBAN_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_AFVC_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_AFVC_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP S/4HANA - PP Created by ABeam Cloud,ABeam Cloud R2Q,_CEL_PP_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PP ABeam Template v1,ABeam Cloud R2M,_CEL_PP_ACTIVITIES,960890.88,2020-11-07 15:38:00
+SAP S/4HANA - PP Created by ABeam Cloud,ABeam Cloud R8D,_CEL_PP_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PM ABeam Template v1,SAP ERP,_CEL_PM_ACTIVITIES,9236.48,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_PR_HISTORY,22886.4,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_PO_HISTORY,144496.64,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,No info,_CEL_P2P_DTEST_STEP,96040.96,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,No info,_CEL_P2P_DTEST_CASE,10956.8,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud3,ABeam Cloud R2Q,_CEL_P2P_CASES,38604.8,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud3,ABeam Cloud R8D,_CEL_P2P_CASES,1415577.6,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_CASES,152893.44,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud4(Test),ABeam Cloud R8D,_CEL_P2P_CASES,1436549.12,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud,ABeam Cloud R8D,_CEL_P2P_CASES,979312.64,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud4(Test),ABeam Cloud R2Q,_CEL_P2P_CASES,38686.72,2020-11-07 15:38:00
+Takata version control test,ABeam Cloud R2M,_CEL_P2P_CASES,3870.72,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,tmp_policy,173.0,2020-11-07 15:38:00
+Takata version control test target,No info,test_takeover,0.0,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,test,114.0,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizationsAttendees,78028.8,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizationsAttendees,78028.8,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizationsAllocations,465520.64,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizationsAllocations,465520.64,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizations,768010.24,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizations,768010.24,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntries,1004113.92,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntries,1004113.92,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseDetail,928020.48,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseDetail,928020.48,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expense,2369781.76,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expense,2212495.36,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_CASES,2621.44,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_ACTIVITIES_HELP,4044.8,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_ACTIVITIES,24074.24,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_TABLE_COUNT,378.0,2020-11-07 15:38:00
+SFDC - Lead ABeam Template v1,ABeam SFDC Development,_CEL_TABLE_COUNT,0.0,2020-11-07 15:38:00
+SAP ECC - O2C ABeam Template v1,ABeam Cloud R2M,_CEL_TABLE_COUNT,723.0,2020-11-07 15:38:00
+SAP ECC - PM ABeam Template v1,SAP ERP,_CEL_STSMA_AUART_MAPPING,60.0,2020-11-07 15:38:00
+SAP ECC - QM-QN ABeam Template v1,SAP ERP,_CEL_QM_ACTIVITIES,54784.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_RESB_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_RESB_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PRPS_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PRPS_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PROJ_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PROJ_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_MLST_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_MLST_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_EBAN_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_EBAN_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_AFVC_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_AFVC_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP S/4HANA - PP Created by ABeam Cloud,ABeam Cloud R2Q,_CEL_PP_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PP ABeam Template v1,ABeam Cloud R2M,_CEL_PP_ACTIVITIES,960890.88,2020-11-07 15:38:00
+SAP S/4HANA - PP Created by ABeam Cloud,ABeam Cloud R8D,_CEL_PP_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PM ABeam Template v1,SAP ERP,_CEL_PM_ACTIVITIES,9236.48,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_PR_HISTORY,22886.4,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_PO_HISTORY,144496.64,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,No info,_CEL_P2P_DTEST_STEP,96040.96,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,No info,_CEL_P2P_DTEST_CASE,10956.8,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud3,ABeam Cloud R2Q,_CEL_P2P_CASES,38604.8,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud3,ABeam Cloud R8D,_CEL_P2P_CASES,1415577.6,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_CASES,152893.44,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud4(Test),ABeam Cloud R8D,_CEL_P2P_CASES,1436549.12,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud,ABeam Cloud R8D,_CEL_P2P_CASES,979312.64,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud4(Test),ABeam Cloud R2Q,_CEL_P2P_CASES,38686.72,2020-11-07 15:38:00
+Takata version control test,ABeam Cloud R2M,_CEL_P2P_CASES,3870.72,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,tmp_policy,173.0,2020-11-07 15:38:00
+Takata version control test target,No info,test_takeover,0.0,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,test,114.0,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizationsAttendees,78028.8,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizationsAttendees,78028.8,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizationsAllocations,465520.64,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizationsAllocations,465520.64,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntriesItemizations,768010.24,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntriesItemizations,768010.24,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseEntries,1004113.92,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseEntries,1004113.92,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expenseDetail,928020.48,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expenseDetail,928020.48,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,No info,expense,2369781.76,2020-11-07 15:38:00
+[Migrated to abeamcloud] Concur - Expense ABeam Template v1,Abeam Concur Development,expense,2212495.36,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_CASES,2621.44,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_ACTIVITIES_HELP,4044.8,2020-11-07 15:38:00
+SAP ECC - WM ABeam Template v1,ABeam Cloud R2M,_CEL_WM_ACTIVITIES,24074.24,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_TABLE_COUNT,378.0,2020-11-07 15:38:00
+SFDC - Lead ABeam Template v1,ABeam SFDC Development,_CEL_TABLE_COUNT,0.0,2020-11-07 15:38:00
+SAP ECC - O2C ABeam Template v1,ABeam Cloud R2M,_CEL_TABLE_COUNT,723.0,2020-11-07 15:38:00
+SAP ECC - PM ABeam Template v1,SAP ERP,_CEL_STSMA_AUART_MAPPING,60.0,2020-11-07 15:38:00
+SAP ECC - QM-QN ABeam Template v1,SAP ERP,_CEL_QM_ACTIVITIES,54784.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_RESB_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_RESB_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PRPS_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PRPS_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PROJ_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_PROJ_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_MLST_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_MLST_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_EBAN_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_EBAN_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_AFVC_CASES,0.0,2020-11-07 15:38:00
+SAP ECC - PS ABeam Template v1,ABeam Cloud R2M,_CEL_PS_AFVC_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP S/4HANA - PP Created by ABeam Cloud,ABeam Cloud R2Q,_CEL_PP_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PP ABeam Template v1,ABeam Cloud R2M,_CEL_PP_ACTIVITIES,960890.88,2020-11-07 15:38:00
+SAP S/4HANA - PP Created by ABeam Cloud,ABeam Cloud R8D,_CEL_PP_ACTIVITIES,0.0,2020-11-07 15:38:00
+SAP ECC - PM ABeam Template v1,SAP ERP,_CEL_PM_ACTIVITIES,9236.48,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_PR_HISTORY,22886.4,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_PO_HISTORY,144496.64,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,No info,_CEL_P2P_DTEST_STEP,96040.96,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,No info,_CEL_P2P_DTEST_CASE,10956.8,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud3,ABeam Cloud R2Q,_CEL_P2P_CASES,38604.8,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud3,ABeam Cloud R8D,_CEL_P2P_CASES,1415577.6,2020-11-07 15:38:00
+SAP ECC - P2P ABeam Template v1,ABeam Cloud R2M,_CEL_P2P_CASES,152893.44,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud4(Test),ABeam Cloud R8D,_CEL_P2P_CASES,1436549.12,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud,ABeam Cloud R8D,_CEL_P2P_CASES,979312.64,2020-11-07 15:38:00
+SAP S/4HANA - P2P Created by ABeam Cloud4(Test),ABeam Cloud R2Q,_CEL_P2P_CASES,38686.72,2020-11-07 15:38:00
+Takata version control test,ABeam Cloud R2M,_CEL_P2P_CASES,3870.72,2020-11-07 15:38:00
+,,,,
